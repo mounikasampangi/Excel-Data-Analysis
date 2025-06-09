@@ -22,15 +22,20 @@ This project demonstrates strong Excel capabilities through a detailed analysis 
 
 ## Insights
 
-### Offline Market Opportunity: **Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.**
+### Offline Market Opportunity: 
+Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.**
 
-### Strong Operational Performance: The fulfillment rate is notably high, with **92% of orders successfully delivered**. Refunds, cancellations, and returns accounted for only **8%** of total orders, reflecting efficient order management and effective customer service processes. This level of reliability builds customer trust and strengthens the brand's reputation in a competitive online retail space.
+### Strong Operational Performance: 
+The fulfillment rate is notably high, with **92% of orders successfully delivered**. Refunds, cancellations, and returns accounted for only **8%** of total orders, reflecting efficient order management and effective customer service processes. This level of reliability builds customer trust and strengthens the brand's reputation in a competitive online retail space.
 
-### Seasonal Sales Pattern: The month of **March** emerged as the peak period for both sales and orders. This indicates a clear seasonal trend that the business can capitalize on through focused marketing campaigns, stock optimization, and promotional strategies. Preparing for this spike in advance can help improve conversion rates and operational readiness.
+### Seasonal Sales Pattern: 
+The month of **March** emerged as the peak period for both sales and orders. This indicates a clear seasonal trend that the business can capitalize on through focused marketing campaigns, stock optimization, and promotional strategies. Preparing for this spike in advance can help improve conversion rates and operational readiness.
 
-### Target Customer Profile: The analysis of age and gender segmentation highlights that **women aged 26–44** represent the largest and most active customer base. This demographic contributes significantly to overall sales and should be the focus for personalized offers, loyalty programs, and product recommendations.
+### Target Customer Profile: 
+The analysis of age and gender segmentation highlights that **women aged 26–44** represent the largest and most active customer base. This demographic contributes significantly to overall sales and should be the focus for personalized offers, loyalty programs, and product recommendations.
 
-### Product Expansion Insight: Among all categories, **accessories** show promising growth potential. Customer interest in this category suggests that expanding the product range—especially around seasonal demand or region-specific styles—could drive incremental sales and attract new buyers.
+### Product Expansion Insight: 
+Among all categories, **accessories** show promising growth potential. Customer interest in this category suggests that expanding the product range—especially around seasonal demand or region-specific styles—could drive incremental sales and attract new buyers.
 
 ## Conclusion & Recommendations
 
