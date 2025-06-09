@@ -22,7 +22,7 @@ This project demonstrates strong Excel capabilities through a detailed analysis 
 
 ## Insights
 
-### Offline Market Opportunity: Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.
+### Offline Market Opportunity: **Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.**
 
 ### Strong Operational Performance: The fulfillment rate is notably high, with **92% of orders successfully delivered**. Refunds, cancellations, and returns accounted for only **8%** of total orders, reflecting efficient order management and effective customer service processes. This level of reliability builds customer trust and strengthens the brand's reputation in a competitive online retail space.
 
