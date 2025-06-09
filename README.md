@@ -12,36 +12,23 @@ This Excel data analysis project aims to deeply evaluate the 2023 sales data of 
 
 Ultimately, this analysis provides actionable recommendations that can help the store increase revenue, boost operational efficiency, and strengthen its competitive market position.
 
----
-
 ## Overview
 
 The project showcases advanced Excel capabilities to clean, analyze, and visualize business data in a way that's easy to understand and explore. It leverages Excel tools such as pivot tables, formulas, charts, slicers, and conditional formatting to bring clarity to large volumes of transactional data.
 
 The result is an interactive dashboard that allows business users—regardless of technical expertise—to view KPIs, track patterns, and understand critical business dynamics. This project proves the power of Excel in transforming raw datasets into meaningful, visually-driven business intelligence.
 
----
-
 ## Project Structure
 
-```
 01 - Data Cleaning         → Removing blanks, fixing data types, handling inconsistencies
 02 - Data Processing       → Creating derived columns, mapping fields, filtering invalid entries
 03 - Data Analysis         → Summarizing KPIs using PivotTables and formulas
 04 - Interactive Dashboard → Assembling charts, slicers, and visuals into a dynamic report
 05 - Insights              → Deriving key observations based on visual exploration
 06 - Recommendations       → Strategic suggestions based on findings
-```
-
----
 
 ## Dashboard Sample
-
-*![image](https://github.com/user-attachments/assets/6708f2d5-b461-4372-add8-03f2c5e69d74)
-*  
-
-
----
+![image](https://github.com/user-attachments/assets/b979614a-89b5-4c20-b7d6-1e3af2761ae3)
 
 ## Key Insights
 
@@ -59,8 +46,6 @@ Adults between **26 to 44 years old**, especially women, were the most active an
 
 ### 5. **Product Diversification**
 **Accessories** emerged as a promising product category. Their growing popularity suggests an opportunity to expand this line—possibly with city-specific or seasonal variations to meet diverse customer needs.
-
----
 
 ## Recommendations
 
@@ -84,5 +69,3 @@ Make this analysis process ongoing rather than one-time. Monthly reviews will he
 
 ### **Introduce Loyalty Programs**
 Reward repeat customers with tiered benefits, early access sales, and exclusive deals—especially for the core age group (26–44). This not only improves retention but also boosts average order value.
-
----
