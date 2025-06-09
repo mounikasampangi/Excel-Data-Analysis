@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard
+# Retail Sales Analysis & Dashboard in Excel
 
 ## Objective
 
