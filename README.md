@@ -1,4 +1,4 @@
-# Online Store Sales Analysis
+# Excel Data Analysis
 
 ## Objective
 
