@@ -16,7 +16,8 @@ This project demonstrates strong Excel capabilities through a detailed analysis 
 06 - Recommendations      → Suggesting strategies based on data findings
 
 ## Dashboard Sample
-![image](https://github.com/user-attachments/assets/7c350715-91d7-4749-ba71-e97155adb6ef)
+![image](https://github.com/user-attachments/assets/beb35898-308e-46aa-bb58-96d871be123b)
+
 
 
 ## Insights
