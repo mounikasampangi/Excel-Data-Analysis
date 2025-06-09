@@ -8,12 +8,13 @@ This Excel data analysis project is focused on evaluating the online store’s 2
 
 This project demonstrates strong Excel capabilities through a detailed analysis of sales data from an online retail store. Using a combination of data transformation techniques, pivot tables, formulas, and interactive visuals, the analysis moves seamlessly from raw data to meaningful business insights. The highlight of the project is a dynamic, user-friendly dashboard that enables both technical and non-technical users to explore sales trends, customer segments, and key business metrics with ease. With built-in slicers and filter controls, the dashboard empowers stakeholders to make informed, data-backed decisions based on clear visual narratives.
 
-01 - Data Cleaning        → Removing inconsistencies and preparing the dataset
-02 - Data Processing      → Creating calculated columns and structuring data for analysis
-03 - Data Analysis        → Applying pivot tables and functions to extract insights
-04 - Interactive Dashboard→ Designing visuals and slicers for interactivity
-05 - Insights             → Highlighting trends and behavioral patterns
-06 - Recommendations      → Suggesting strategies based on data findings
+Project structure is as follows:
+─ 01-Data Cleaning
+─ 02-Data Processing
+─ 03-Data Analysis
+─ 04-Interactive Dashboard
+─ 05-Insights
+─ 06-Recomendations
 
 ## Dashboard Sample
 ![image](https://github.com/user-attachments/assets/beb35898-308e-46aa-bb58-96d871be123b)
@@ -22,8 +23,7 @@ This project demonstrates strong Excel capabilities through a detailed analysis 
 
 ## Insights
 
-### Offline Market Opportunity: 
-Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.**
+** Offline Market Opportunity:** Analysis shows that **Maharashtra, Karnataka, Uttar Pradesh, Telangana**, and **Tamil Nadu** generated the highest sales volume and order counts. These states consistently performed well across key metrics, indicating strong consumer demand and market readiness. These regions present an excellent opportunity for offline expansion, where local engagement strategies could enhance both brand visibility and customer loyalty.**
 
 ### Strong Operational Performance: 
 The fulfillment rate is notably high, with **92% of orders successfully delivered**. Refunds, cancellations, and returns accounted for only **8%** of total orders, reflecting efficient order management and effective customer service processes. This level of reliability builds customer trust and strengthens the brand's reputation in a competitive online retail space.
